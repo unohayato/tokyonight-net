@@ -7,6 +7,7 @@ image:
     alt: "Thumbnails of websites from the Astro Showcase site."
 pubDate: 2022-07-08
 tags: ["astro", "blogging", "learning in public","successes"]
+url: "https://github.com/unohayato/tokyonight-net/blob/feature/blog-site/src/pages/posts/post-2.md"
 ---
 # xxxxxxxxxxxxxxの使い方とは？
 ## xxxxxxxxxxxxxxって何？

@@ -1,32 +1,26 @@
 ---
-title: 'My First Blog Post'
-pubDate: 2022-07-01
-description: 'This is the first post of my new Astro blog.'
-author: 'Astro Learner'
-image:
-    url: 'https://astro.build/assets/blog/astro-1-release-update/cover.jpeg' 
-    alt: 'The Astro logo with the word One.'
-tags: ["astro", "blogging", "learning in public"]
+title: My First Blog Post
+author: Astro Learner
+description: "After learning some Astro, I couldn't stop!"
+image: 
+    url: "https://astro.build/assets/blog/astro-showcase/astro-showcase-screenshot.jpg"
+    alt: "Thumbnails of websites from the Astro Showcase site."
+pubDate: 2022-07-08
+tags: ["astro", "blogging", "learning in public","successes"]
+url: "https://github.com/unohayato/tokyonight-net/blob/feature/blog-site/src/pages/posts/post-1.md"
 ---
-# My First Blog Post
-
-Published on: 2022-07-01
-
-Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
-
-## What I've accomplished
-
-1. **Installing Astro**: First, I created a new Astro project and set up my online accounts.
-
-2. **Making Pages**: I then learned how to make pages by creating new `.astro` files and placing them in the `src/pages/` folder.
-
-3. **Making Blog Posts**: This is my first blog post! I now have Astro pages and Markdown posts!
-
-## What's next
-
-I will finish the Astro tutorial, and then keep adding more posts. Watch this space for more to come.
-
-## Language
-### Python
-#### Django
-
+# xxxxxxxxxxxxxxの使い方とは？
+## xxxxxxxxxxxxxxって何？
+xxxxxxxxxxxxxx方法
+ 
+***
+- xxxxxxxxxxxxxx
+- xxxxxxxxxxxxxx
+- xxxxxxxxxxxxxx
+***
+## xxxxxxxxxxxxxx基礎的な使い方
+### xxxxxxxxxxxxxxの時
+```vb
+for _ in range(len(lst)):
+    'ここにある処理を繰り返せる
+```
