@@ -8,3 +8,18 @@ image:
 pubDate: 2022-07-08
 tags: ["astro", "blogging", "learning in public","successes"]
 ---
+# xxxxxxxxxxxxxxの使い方とは？
+## xxxxxxxxxxxxxxって何？
+xxxxxxxxxxxxxx方法
+ 
+***
+- xxxxxxxxxxxxxx
+- xxxxxxxxxxxxxx
+- xxxxxxxxxxxxxx
+***
+## xxxxxxxxxxxxxx基礎的な使い方
+### xxxxxxxxxxxxxxの時
+```vb
+for _ in range(len(lst)):
+    'ここにある処理を繰り返せる
+```
